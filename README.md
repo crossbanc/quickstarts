@@ -1,1 +1,1 @@
-Here is a sample quick start to training your own LLM.
+Here is a sample quick start to training your own LLM or pull it to work or contribute to ours.
