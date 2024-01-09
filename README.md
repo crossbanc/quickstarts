@@ -1,7 +1,8 @@
 Here is a sample quick start to training your own LLM or pull it to work on, contribute to or for benchmarking as 
 per your role.
 
-Over time, we will add other quick starts for the established foundation models (incl. the baselines that can be used in conjunction with factually relevant data). 
+Over time, we will add other quick starts for the established foundation models (incl. the baselines that can be used 
+in conjunction with that which is factually relevant). 
 
 That is the simpler and greener way and subsequently unless by proof, our way.
 
