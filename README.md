@@ -10,4 +10,4 @@ Opinion:
 The safe use of AI is best controlled not just by what comes out but also in what goes in or can go in.
 Education is about the architecture and advancement in its innovation. 
 
-The architecture(s) we follow here is generally available. 
+The architecture(s) we follow here are generally available. 
